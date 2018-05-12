@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25862
     wikipedia: http://en.wikipedia.org/wiki/Justin_Huntly_McCarthy_%281859-1936%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23472#A-History-of-the-Four-Georges-and-of-William-IV-Volume-IV
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-11-13'
 gutenberg_type: Text
