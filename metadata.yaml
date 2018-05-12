@@ -1,0 +1,39 @@
+_repo: A-History-of-the-Four-Georges-and-of-William-IV-Volume-IV_23472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: McCarthy, Justin
+    alias: M'Carthy, Justin
+    birthdate: 1830
+    deathdate: 1912
+    gutenberg_agent_id: '1783'
+    url: http://www.gutenberg.org/2009/agents/1783
+    wikipedia: http://en.wikipedia.org/wiki/Justin_McCarthy_(1830%E2%80%931912)
+  - agent_name: McCarthy, Justin H. (Justin Huntly)
+    aliases:
+    - McCarthy, Justin Huntly
+    - M'Carthy, Justin Huntly
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '25862'
+    url: http://www.gutenberg.org/2009/agents/25862
+    wikipedia: http://en.wikipedia.org/wiki/Justin_Huntly_McCarthy_%281859-1936%29
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- 1714-1837'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Politics and government -- 1714-1837'
+title: A History of the Four Georges and of William IV, Volume IV
+url: http://www.gutenberg.org/ebooks/23472
